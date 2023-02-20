@@ -1,6 +1,7 @@
 # Calculadora-with-dark-mode
 
-Esta é uma calculadora criada com HTML, CSS e JavaScript, e com suporte ao modo escuro. O objetivo deste site é fornecer uma calculadora simples e fácil de usar para cálculos básicos.
+Esta é uma calculadora criada com HTML, CSS e JavaScript, e com suporte ao modo escuro. Também há a aplicação do estilo "neumorfismo" que procura imitar elementos 3D com o uso de luz e sombras. <br>
+O objetivo deste site é fornecer uma calculadora simples e fácil de usar para cálculos básicos.
 
 # Características
 <ul>
