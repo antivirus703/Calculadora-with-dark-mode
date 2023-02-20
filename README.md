@@ -23,6 +23,8 @@ O objetivo deste site é fornecer uma calculadora simples e fácil de usar para 
 <br>
 2 - Abra o arquivo "**index.html**" em um navegador web.
 
+**URL**: https://joyful-cassata-27c0c2.netlify.app/
+
 # Autor
 Esta calculadora foi criada por Norton Berbert.
 
