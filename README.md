@@ -16,6 +16,7 @@ O objetivo deste site é fornecer uma calculadora simples e fácil de usar para 
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+ <li>Netlify</li>
 </ul>
 
 # Como Executar
